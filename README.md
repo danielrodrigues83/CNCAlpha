@@ -9,9 +9,8 @@ Criar uma máquina fresadora CNC para hobby que seja capaz de usinar madeira, PC
 Em uma outra etapa pretendo ter um modelo que seja capaz de usinar metais macios, como por exemplo, ligas de Alumínio.
 
 #Especificações
- Área de trabalho: X 240mm Y 230mm Z 80mm
- Tensão de trabalho: 24V
- 
+ - Área de trabalho: X 240mm Y 230mm Z 80mm
+ - Tensão de trabalho: 24V
 
 #Softwares Utilizados
  - <a href="http://www.sketchup.com/products/sketchup-make" target="_blank">SketchUp Make 14</a>
@@ -36,6 +35,12 @@ Em uma outra etapa pretendo ter um modelo que seja capaz de usinar metais macios
  - <a href="http://www.aliexpress.com/item/2pcs-CNC-Emergency-Stop-Pushbutton-Switch-LAY37-11ZS/32331147402.html" target="_blank">Botão de emergência</a>
  - <a href="http://www.ebay.com/itm/ER11-Spindle-for-Sable-2015-SPD-ER11-ENGRAVER-mill-PCBs-engraving-/201337995174?pt=LH_DefaultDomain_0&hash=item2ee0adffa6" target="_blank">Spindle</a>
 
+#Instruções para fabricação
+ Os arquivos contendo os desenhos das peças que precisam ser fabricadas estão na pasta <a href="desenho2D" target="_blank">desenho2D</a>.
+ O objetivo é utilizar estes arquivos como base para a criação dos Gcodes, por isso não foram incluídos cotas e símbolos.
+ Os arquivos Gcodes serão salvos na pasta <a href="cam" target="_blank">cam</a>
+ Serão disponibilizados, também, os arquivos editáveis do CamBam.
+ 
 #Observações
  - Tentei fazer todas as peças a serem fabricadas com o dimensional que fosse possível usinar através dela.
  - A mesa do eixo Y, devido ao seu tamanho, foi necessário realizar a usinagem em duas etapas.
