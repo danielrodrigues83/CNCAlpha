@@ -14,7 +14,7 @@ Em uma outra etapa pretendo ter um modelo que seja capaz de usinar metais macios
  - <a href="http://www.cambam.info/" target="_blank">CamBam 0.9.4</a>
 
 #Observações
- -Tentei fazer todas as peças a serem fabricadas com o dimensional que fosse possível usinar através dela.
- -A mesa do eixo Y, devido ao seu tamanho, foi necessário realizar a usinagem em duas etapas.
- -Serão utilizadas duas fontes, ligadas em série, de 12V 30A para fornecer 24V aos motores e ao spindle.
+ - Tentei fazer todas as peças a serem fabricadas com o dimensional que fosse possível usinar através dela.
+ - A mesa do eixo Y, devido ao seu tamanho, foi necessário realizar a usinagem em duas etapas.
+ - Serão utilizadas duas fontes, ligadas em série, de 12V 30A para fornecer 24V aos motores e ao spindle.
  
