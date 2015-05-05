@@ -36,7 +36,7 @@ Em uma outra etapa pretendo ter um modelo que seja capaz de usinar metais macios
  - <a href="http://www.ebay.com/itm/ER11-Spindle-for-Sable-2015-SPD-ER11-ENGRAVER-mill-PCBs-engraving-/201337995174?pt=LH_DefaultDomain_0&hash=item2ee0adffa6" target="_blank">Spindle</a>
 
 #Instruções para fabricação
- Os arquivos contendo os desenhos das peças que precisam ser fabricadas estão na pasta <a href="desenho2D" target="_blank">desenho2D</a>.
+ Os arquivos contendo os desenhos das peças que precisam ser fabricadas estão na pasta <a href="desenhos2D" target="_blank">desenho2D</a>.
  O objetivo é utilizar estes arquivos como base para a criação dos Gcodes, por isso não foram incluídos cotas e símbolos.
  Os arquivos Gcodes serão salvos na pasta <a href="cam" target="_blank">cam</a>
  Serão disponibilizados, também, os arquivos editáveis do CamBam.
